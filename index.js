@@ -30,8 +30,8 @@ app.post('/bfhl', (req, res) => {
         const user_id = "pranav_saluja_2111981140";
 
 
-        const email = "pranav1140.be21@chitkarauniversity.edu.in";
-        const roll_number = "2111981140";
+        const email = "umesh1206.be21@chitkarauniversity.edu.in";
+        const roll_number = "2111981206";
         const odd_numbers = [];
         const even_numbers = [];
         const alphabets = [];
